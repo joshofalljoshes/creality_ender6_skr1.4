@@ -27,3 +27,6 @@ Changing the ducts
 
 **Way Way Future ideas
 
+:Notes:
+
+Tried my best to pull of all the settings that I can from the creality board (Acceleration, Jerk, etc)
